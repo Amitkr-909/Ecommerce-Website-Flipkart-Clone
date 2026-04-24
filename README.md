@@ -54,11 +54,11 @@ npm start
 ---
 
 ## 📷 Screenshots
-
-<img width="1920" height="1080" alt="Screenshot 1" src="https://github.com/user-attachments/assets/ba6daa75-49f3-4c23-a5f5-27c25c50681d" />
-<img width="1920" height="1080" alt="Screenshot 3" src="https://github.com/user-attachments/assets/fa3c3264-0d77-41b4-b8bd-c433a1b8ed27" />
-<img width="1920" height="1080" alt="Screenshot 4" src="https://github.com/user-attachments/assets/10f8dac2-d42f-492c-aa84-7c6a172d9d0a" />
-<img width="1920" height="1080" alt="Screenshot 5" src="https://github.com/user-attachments/assets/284a2920-2fcf-4fa5-bd40-bb5a8eeee345" />
+<img width="1920" height="963" alt="Screenshot 1" src="https://github.com/user-attachments/assets/f11e9bf7-6639-4d30-8f7c-ad29cb57b3bd" />
+<img width="1920" height="962" alt="Screenshot 2" src="https://github.com/user-attachments/assets/28447c31-10d6-47f4-bf64-803f19473d67" />
+<img width="1920" height="963" alt="Screenshot 3" src="https://github.com/user-attachments/assets/b400242a-ee32-454c-92a8-aff526c01b41" />
+<img width="1920" height="958" alt="Screenshot 4" src="https://github.com/user-attachments/assets/78ad2f38-e2fe-40c2-ab20-c04e44bb6764" />
+<img width="1920" height="969" alt="Screenshot 5" src="https://github.com/user-attachments/assets/feed5cf0-7f43-4e0d-bc12-c780a9401f03" />
 
 ---
 
