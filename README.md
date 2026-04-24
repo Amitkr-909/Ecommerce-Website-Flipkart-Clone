@@ -1,7 +1,7 @@
-# 🛒 Ecommerce Website
+# 🛒 Online Shopping Cart
 
 ## 📌 Description
-This is a full-stack ecommerce web application inspired by Flipkart. It allows users to browse products, view details, add items to cart, and manage orders. The project demonstrates both frontend and backend development skills.
+This is a full-stack ecommerce web application. It allows users to browse products, view details, add items to cart, and manage orders. The project demonstrates both frontend and backend development skills.
 
 ---
 
@@ -39,7 +39,7 @@ server/ → Node.js backend
 ## ▶️ How to Run Locally
 
 ### 1. Clone the repository
-git clone https://github.com/Amitkr-909/myportfolio
+git clone https://github.com/Amitkr-909/Online-Shopping-Cart
 
 ### 2. Setup Backend
 cd server
